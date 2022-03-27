@@ -1,4 +1,4 @@
-#Zak³ad pogrzebowy
+##Zak³ad pogrzebowy
 
 Rozbudowany program, pozwalaj¹cy na zarz¹dzanie zak³¹dem pogrzebowym. Program zawiera edytowalne s³owniki dzia³añ, listê pojazdów, mo¿liwoœæ wy³¹czenia z dnia pracy wybranego pojazdu, dodawania osób (pracownik zmar³y, ksi¹dz itp), listê cmentarzy oraz kalendarz.
 
