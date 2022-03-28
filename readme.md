@@ -49,3 +49,7 @@ Rozbudowany program, pozwalający na zarządzanie zakłądem pogrzebowym. Progra
   - Dodaj cmentarz - dodawanie cmentarza, wraz z wyborem lub  dodaniem księdza w systemie
 - Funkcje
   - Funkcja zamknij pozwala na opuszczenie programu
+
+## Schemat bazy danych
+
+![Schemat bazy danych](https://user-images.githubusercontent.com/32156590/160341404-5af22dc9-c524-492d-aa3c-cc3b7c816878.png)
